@@ -55,6 +55,14 @@ public class fiat {
                 '}';
     }
 
+
+
+    public String acelerar(){
+        System.out.println("");
+        return "";
+    }
+
+
     public fiat() {
         super();
     }
@@ -70,7 +78,6 @@ public class fiat {
         return "piscar alerta";
     }
 
-    //public String alerta;
-    //public String freio;
+
 }
 
